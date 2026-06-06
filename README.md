@@ -1,33 +1,31 @@
 <div align="center">
 
-# ⚡ Jatin Dubey
+# ⚡ JATIN DUBEY
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=1000&lines=Full+Stack+Developer+🚀;MERN+Stack+Engineer+⚡;Java+Developer+☕;Data+Structures+%26+Algorithms+🧠;Building+Things+For+The+Web+🌎" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=36&duration=3500&pause=1000&color=FF7A00&center=true&vCenter=true&width=1000&lines=FULL+STACK+DEVELOPER;MERN+STACK+ENGINEER;JAVA+DEVELOPER;DATA+STRUCTURES+%26+ALGORITHMS;BUILDING+THE+FUTURE+WITH+CODE" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Focused%20On-MERN%20Stack-111827?style=for-the-badge&logo=mongodb&logoColor=00ED64"/>
+<h3>
+🚀 Full Stack Developer • Java Enthusiast • MERN Engineer
+</h3>
 
-<img src="https://img.shields.io/badge/Learning-Java%20%26%20DSA-111827?style=for-the-badge&logo=openjdk&logoColor=FF8C00"/>
+<br>
 
-<img src="https://img.shields.io/badge/Open%20To-Opportunities-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=jatin108-dev&label=PROFILE+VIEWS&color=FF6B6B&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=jatin108-dev&label=PROFILE+VIEWS&color=FF7A00&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 ABOUT ME
 
 ```java
 public class JatinDubey {
 
     String role = "Full Stack Developer";
 
-    String[] skills = {
+    String[] expertise = {
         "MERN Stack",
         "Java",
         "Data Structures",
@@ -37,58 +35,88 @@ public class JatinDubey {
 
     String currentProject = "Smart Konbini";
 
-    String goal = "Software Engineer";
+    String mission =
+        "Building impactful software and solving real-world problems";
 }
 ```
 
 ---
 
-# ⚒️ Tech Stack
+## ⚡ CURRENT FOCUS
+
+```txt
+✓ Java + DSA
+
+✓ MERN Stack
+
+✓ Backend Development
+
+✓ Open Source Contributions
+
+✓ Software Engineering
+```
+
+---
+
+## 🛠 TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,tailwind,git,github,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,tailwind,git,github,vscode,postman&theme=dark"/>
 
 </div>
 
 ---
 
-# 🔥 MERN STACK
+## 🔥 FULL STACK DEVELOPMENT
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/MongoDB-18181B?style=for-the-badge&logo=mongodb&logoColor=00ED64"/>
+<img src="https://img.shields.io/badge/MongoDB-161B22?style=for-the-badge&logo=mongodb&logoColor=00ED64"/>
 
-<img src="https://img.shields.io/badge/ExpressJS-18181B?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/ExpressJS-161B22?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
 
-<img src="https://img.shields.io/badge/ReactJS-18181B?style=for-the-badge&logo=react&logoColor=FF8C00"/>
+<img src="https://img.shields.io/badge/ReactJS-161B22?style=for-the-badge&logo=react&logoColor=FF7A00"/>
 
-<img src="https://img.shields.io/badge/NodeJS-18181B?style=for-the-badge&logo=nodedotjs&logoColor=7FFF00"/>
+<img src="https://img.shields.io/badge/NodeJS-161B22?style=for-the-badge&logo=nodedotjs&logoColor=7FFF00"/>
 
 </div>
 
 ---
 
-# 📌 Featured Projects
+## 🏆 FEATURED PROJECTS
 
 ### 🏪 Smart Konbini
-Tourist-friendly convenience store platform inspired by Japanese stores.
 
-### ✈️ Travel Itinerary Planner
-Modern trip planner with intelligent recommendations.
+Tourist-friendly convenience store platform inspired by Japanese retail innovation.
 
-### 👕 Streetwear Ecommerce
-Fashion-focused ecommerce platform.
+**Tech Stack:** MERN Stack
 
 ---
 
-# 📊 GitHub Statistics
+### ✈️ Travel Itinerary Planner
+
+Modern travel planning application with intelligent trip recommendations.
+
+**Tech Stack:** React • Node.js • MongoDB
+
+---
+
+### 👕 Streetwear Ecommerce
+
+Fashion-focused ecommerce platform with modern UI and responsive design.
+
+**Tech Stack:** React • Tailwind CSS
+
+---
+
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jatin108-dev&show_icons=true&theme=radical&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jatin108-dev&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin108-dev&layout=compact&theme=radical&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin108-dev&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -96,13 +124,13 @@ Fashion-focused ecommerce platform.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin108-dev&theme=radical&hide_border=true"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=jatin108-dev&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏅 GITHUB TROPHIES
 
 <div align="center">
 
@@ -112,26 +140,44 @@ Fashion-focused ecommerce platform.
 
 ---
 
-# 📈 Contribution Graph
+## 📈 CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jatin108-dev&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jatin108-dev&theme=github-compact&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🌐 Connect
+## 🎯 2026 GOALS
+
+```txt
+□ Solve 500+ DSA Problems
+
+□ Master Java Development
+
+□ Build Production-Level MERN Projects
+
+□ Contribute To Open Source
+
+□ Secure Software Engineering Internship
+
+□ Learn System Design
+```
+
+---
+
+## 🌐 CONNECT WITH ME
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINK">
-<img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <a href="mailto:YOURMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-18181B?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/GMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 </div>
@@ -140,6 +186,8 @@ Fashion-focused ecommerce platform.
 
 <div align="center">
 
-### ⚡ BUILD • LEARN • SHIP • REPEAT ⚡
+## ⚡ BUILD • LEARN • SHIP • REPEAT ⚡
+
+### "Turning Ideas Into Real Software"
 
 </div>
