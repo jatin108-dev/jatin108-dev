@@ -2,13 +2,11 @@
 
 # ⚡ JATIN DUBEY
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=36&duration=3500&pause=1000&color=FF7A00&center=true&vCenter=true&width=1000&lines=FULL+STACK+DEVELOPER;MERN+STACK+ENGINEER;JAVA+DEVELOPER;DATA+STRUCTURES+%26+ALGORITHMS;BUILDING+THE+FUTURE+WITH+CODE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=34&duration=3000&pause=1000&color=FF7A00&center=true&vCenter=true&width=1000&lines=FULL+STACK+DEVELOPER;MERN+STACK+ENGINEER;JAVA+%26+DSA+ENTHUSIAST;BUILDING+REAL+WORLD+PROJECTS;CONTINUOUSLY+LEARNING+AND+GROWING" />
 
 <br>
 
-<h3>
-🚀 Full Stack Developer • Java Enthusiast • MERN Engineer
-</h3>
+### 🚀 Full Stack Developer • MERN Stack • Java • DSA
 
 <br>
 
@@ -18,47 +16,23 @@
 
 ---
 
-## 🚀 ABOUT ME
+## 🚀 About Me
 
-```java
-public class JatinDubey {
+Hello! I'm **Jatin Dubey**, a Computer Science student and Full Stack Developer passionate about building modern web applications and solving real-world problems through technology.
 
-    String role = "Full Stack Developer";
+💻 Developing full-stack applications using the **MERN Stack**
 
-    String[] expertise = {
-        "MERN Stack",
-        "Java",
-        "Data Structures",
-        "Algorithms",
-        "Backend Development"
-    };
+☕ Strengthening problem-solving skills through **Java & Data Structures & Algorithms**
 
-    String currentProject = "Smart Konbini";
+🚀 Building projects that improve my frontend, backend, and system design skills
 
-    String mission =
-        "Building impactful software and solving real-world problems";
-}
-```
+🌱 Exploring Open Source, Scalable Systems, and Modern Web Technologies
+
+🎯 Goal: To become a highly skilled Software Engineer and contribute to impactful products
 
 ---
 
-## ⚡ CURRENT FOCUS
-
-```txt
-✓ Java + DSA
-
-✓ MERN Stack
-
-✓ Backend Development
-
-✓ Open Source Contributions
-
-✓ Software Engineering
-```
-
----
-
-## 🛠 TECH STACK
+## 🛠 Technologies & Tools
 
 <div align="center">
 
@@ -68,7 +42,7 @@ public class JatinDubey {
 
 ---
 
-## 🔥 FULL STACK DEVELOPMENT
+## ⚡ Development Stack
 
 <div align="center">
 
@@ -84,11 +58,11 @@ public class JatinDubey {
 
 ---
 
-## 🏆 FEATURED PROJECTS
+## 🔥 Featured Projects
 
 ### 🏪 Smart Konbini
 
-Tourist-friendly convenience store platform inspired by Japanese retail innovation.
+Tourist-friendly convenience store platform inspired by Japanese convenience stores.
 
 **Tech Stack:** MERN Stack
 
@@ -96,7 +70,7 @@ Tourist-friendly convenience store platform inspired by Japanese retail innovati
 
 ### ✈️ Travel Itinerary Planner
 
-Modern travel planning application with intelligent trip recommendations.
+Modern travel planning application with personalized recommendations.
 
 **Tech Stack:** React • Node.js • MongoDB
 
@@ -104,13 +78,13 @@ Modern travel planning application with intelligent trip recommendations.
 
 ### 👕 Streetwear Ecommerce
 
-Fashion-focused ecommerce platform with modern UI and responsive design.
+Fashion-focused ecommerce platform with responsive UI and modern design.
 
 **Tech Stack:** React • Tailwind CSS
 
 ---
 
-## 📊 GITHUB ANALYTICS
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -124,23 +98,13 @@ Fashion-focused ecommerce platform with modern UI and responsive design.
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=jatin108-dev&theme=github-dark-blue&hide_border=true"/>
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=jatin108-dev&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏅 GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jatin108-dev&theme=algolia&no-frame=true&column=7"/>
-
-</div>
-
----
-
-## 📈 CONTRIBUTION GRAPH
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -150,34 +114,30 @@ Fashion-focused ecommerce platform with modern UI and responsive design.
 
 ---
 
-## 🎯 2026 GOALS
+## 🎯 Current Goals
 
-```txt
-□ Solve 500+ DSA Problems
+✅ Master Java & DSA
 
-□ Master Java Development
+✅ Build Production-Ready MERN Applications
 
-□ Build Production-Level MERN Projects
+✅ Contribute to Open Source
 
-□ Contribute To Open Source
+✅ Learn System Design
 
-□ Secure Software Engineering Internship
-
-□ Learn System Design
-```
+✅ Secure a Software Engineering Internship
 
 ---
 
-## 🌐 CONNECT WITH ME
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <a href="mailto:YOURMAIL@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 </div>
@@ -186,8 +146,8 @@ Fashion-focused ecommerce platform with modern UI and responsive design.
 
 <div align="center">
 
-## ⚡ BUILD • LEARN • SHIP • REPEAT ⚡
+## ⚡ BUILD • LEARN • CREATE • REPEAT ⚡
 
-### "Turning Ideas Into Real Software"
+### Turning Ideas Into Real Software
 
 </div>
