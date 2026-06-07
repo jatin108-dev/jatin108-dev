@@ -42,8 +42,8 @@ I'm **Jatin Dubey**, a passionate Full Stack Developer dedicated to building sca
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/NodeJS-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00FF88)
-![ExpressJS](https://img.shields.io/badge/ExpressJS-0D1117?style=for-the-badge&logo=express&)
+![NodeJS](https://img.shields.io/badge/NodeJS-0D1117?style=for-the-badge&logo=nodedotjs)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-0D1117?style=for-the-badge&logo=express)
 
 ### Databases
 
