@@ -58,11 +58,11 @@ I'm **Jatin Dubey**, a passionate Full Stack Developer dedicated to building sca
 
 ### DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00FF88)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF88)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF88)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00FF88)
-![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=00FF88)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman)
 
 ---
 
