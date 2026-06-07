@@ -35,10 +35,10 @@ I'm **Jatin Dubey**, a passionate Full Stack Developer dedicated to building sca
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF88)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF88)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF88)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00FF88)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss)
 
 ### Backend
 
@@ -47,14 +47,14 @@ I'm **Jatin Dubey**, a passionate Full Stack Developer dedicated to building sca
 
 ### Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00FF88)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF88)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF88)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
 
 ### Programming Languages
 
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF88)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF88)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge)
 
 ### DevOps & Tools
 
