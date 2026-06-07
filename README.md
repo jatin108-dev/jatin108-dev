@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=32&duration=2800&pause=1000&color=FF7A00&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+🚀;MERN+Stack+Engineer+⚡;Java+Developer;Machine+Learning+Enthusiast+🤖;Building+Production+Ready+Applications+🔥" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=42&duration=3500&pause=1200&color=FF7A00&center=true&vCenter=true&width=1300&height=90&lines=FULL+STACK+DEVELOPER;MERN+STACK+ENGINEER;JAVA+DEVELOPER;MACHINE+LEARNING+ENTHUSIAST" />
 
 </div>
 
