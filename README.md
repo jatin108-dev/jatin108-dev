@@ -4,7 +4,9 @@
 
 <h3>Full Stack Developer • MERN Stack Engineer • Java Developer • Machine Learning Enthusiast</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+🚀;MERN+Stack+Engineer+⚡;Java+Developer+☕;Machine+Learning+Enthusiast+🤖;Building+Real+World+Projects+🔥" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7b00,100:ff4500&height=220&section=header&text=JATIN%20DUBEY&fontSize=50&fontColor=ffffff" />
+</p>
 
 <br>
 
