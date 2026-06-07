@@ -1,60 +1,46 @@
-<div align="center">
+# Hi, I'm Jatin Dubey 👋
 
-# ⚡ JATIN DUBEY
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=34&duration=3000&pause=1000&color=FF7A00&center=true&vCenter=true&width=1000&lines=FULL+STACK+DEVELOPER;MERN+STACK+ENGINEER;JAVA+%26+DSA+ENTHUSIAST;BUILDING+REAL+WORLD+PROJECTS;CONTINUOUSLY+LEARNING+AND+GROWING" />
-
-<br>
-
-### 🚀 Full Stack Developer • MERN Stack • Java • DSA
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=jatin108-dev&label=PROFILE+VIEWS&color=FF7A00&style=for-the-badge"/>
-
-</div>
+### Full Stack Developer | MERN Stack | Java & DSA
 
 ---
 
 ## 🚀 About Me
 
-Hello! I'm **Jatin Dubey**, a Computer Science student and Full Stack Developer passionate about building modern web applications and solving real-world problems through technology.
+I'm a Computer Science student and Full Stack Developer passionate about building scalable web applications and solving real-world problems through technology.
 
-💻 Developing full-stack applications using the **MERN Stack**
-
-☕ Strengthening problem-solving skills through **Java & Data Structures & Algorithms**
-
-🚀 Building projects that improve my frontend, backend, and system design skills
-
-🌱 Exploring Open Source, Scalable Systems, and Modern Web Technologies
-
-🎯 Goal: To become a highly skilled Software Engineer and contribute to impactful products
+- 💻 Building applications with the MERN Stack
+- ☕ Learning Java and mastering Data Structures & Algorithms
+- 🚀 Developing real-world projects including SaaS and Real Estate platforms
+- 🌱 Exploring Backend Development, System Design, and Open Source
+- 🎯 Goal: Become a Software Engineer and build impactful products
 
 ---
 
-## 🛠 Technologies & Tools
+## 🛠 Tech Stack
 
-<div align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,tailwind,git,github,vscode,postman&theme=dark"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript" />
+</p>
 
-</div>
+### Frontend
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
+</p>
 
-## ⚡ Development Stack
+### Backend
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-<img src="https://img.shields.io/badge/MongoDB-161B22?style=for-the-badge&logo=mongodb&logoColor=00ED64"/>
+### Database & Tools
 
-<img src="https://img.shields.io/badge/ExpressJS-161B22?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/ReactJS-161B22?style=for-the-badge&logo=react&logoColor=FF7A00"/>
-
-<img src="https://img.shields.io/badge/NodeJS-161B22?style=for-the-badge&logo=nodedotjs&logoColor=7FFF00"/>
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,postman" />
+</p>
 
 ---
 
@@ -62,92 +48,67 @@ Hello! I'm **Jatin Dubey**, a Computer Science student and Full Stack Developer 
 
 ### 🏪 Smart Konbini
 
-Tourist-friendly convenience store platform inspired by Japanese convenience stores.
+Tourist-friendly convenience store platform inspired by Japanese retail innovation.
 
-**Tech Stack:** MERN Stack
-
----
-
-### ✈️ Travel Itinerary Planner
-
-Modern travel planning application with personalized recommendations.
-
-**Tech Stack:** React • Node.js • MongoDB
+**Tech:** MERN Stack
 
 ---
 
-### 👕 Streetwear Ecommerce
+### 🧾 Invoice SaaS
 
-Fashion-focused ecommerce platform with responsive UI and modern design.
+A modern SaaS platform for invoice creation, management, and analytics.
 
-**Tech Stack:** React • Tailwind CSS
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jatin108-dev&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin108-dev&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=jatin108-dev&theme=github-dark-blue&hide_border=true"/>
-
-</div>
+**Tech:** React, Node.js, Express, MongoDB
 
 ---
 
-## 📈 Contribution Activity
+### 🏢 Real Estate Platform
 
-<div align="center">
+A full-stack real estate application for property listings and management.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jatin108-dev&theme=github-compact&hide_border=true"/>
+**Tech:** MERN Stack
 
-</div>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jatin108-dev&show_icons=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin108-dev&layout=compact&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin108-dev&theme=github-dark-blue" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jatin108-dev&theme=github-compact" />
+</p>
 
 ---
 
 ## 🎯 Current Goals
 
-✅ Master Java & DSA
-
-✅ Build Production-Ready MERN Applications
-
-✅ Contribute to Open Source
-
-✅ Learn System Design
-
-✅ Secure a Software Engineering Internship
+- Master Java & DSA
+- Build Production-Ready MERN Applications
+- Learn System Design
+- Contribute to Open Source
+- Secure a Software Engineering Internship
 
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-<a href="mailto:YOURMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-</div>
+- LinkedIn: www.linkedin.com/in/jatin-dubey-5883b8368
+- GitHub: https://github.com/jatin108-dev
 
 ---
 
-<div align="center">
-
-## ⚡ BUILD • LEARN • CREATE • REPEAT ⚡
-
-### Turning Ideas Into Real Software
-
-</div>
+### ⚡ Build • Learn • Create • Repeat
