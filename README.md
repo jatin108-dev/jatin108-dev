@@ -1,12 +1,14 @@
 <div align="center">
 
-# ⚡ Jatin Dubey
+# ⚡ JATIN DUBEY
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&pause=1000&color=FF7A00&center=true&vCenter=true&random=false&width=900&lines=Full+Stack+Developer+🚀;MERN+Stack+Engineer+⚡;Java+%26+DSA+Enthusiast+☕;Building+Scalable+Web+Applications;Always+Learning+Something+New+🔥" />
+<h3>Full Stack Developer • MERN Stack Engineer • Java Developer • Machine Learning Enthusiast</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+🚀;MERN+Stack+Engineer+⚡;Java+Developer+☕;Machine+Learning+Enthusiast+🤖;Building+Real+World+Projects+🔥" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=jatin108-dev&label=Profile+Views&color=FF7A00&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=jatin108-dev&label=Profile+Views&color=F97316&style=for-the-badge"/>
 
 </div>
 
@@ -14,51 +16,60 @@
 
 # 🚀 About Me
 
-I'm **Jatin Dubey**, a passionate Full Stack Developer focused on building modern, scalable and user-friendly web applications.
+I'm **Jatin Dubey**, a passionate Full Stack Developer focused on building scalable applications and solving real-world problems through technology.
 
-💻 Working with the **MERN Stack**
+💻 Building modern web applications using the **MERN Stack**
 
-☕ Learning **Java & Data Structures & Algorithms**
+☕ Strengthening problem-solving skills through **Java & Data Structures & Algorithms**
 
-🚀 Building SaaS products and full-stack applications
+🤖 Exploring **Machine Learning** and intelligent systems
 
-🌱 Exploring Backend Development, Open Source and System Design
+🚀 Developing SaaS products, Real Estate platforms, and Smart Retail solutions
 
-🎯 Goal: To become a highly skilled Software Engineer and create products that impact millions
+🌱 Learning Backend Engineering, System Design, and Open Source Development
 
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,tailwind,git,github,vscode,postman&perline=6"/>
-
-</div>
+🎯 Goal: To become a highly skilled Software Engineer and build products that impact millions
 
 ---
 
-# 🔥 Development Stack
+# ⚡ Technical Skills
 
-<div align="center">
+### Frontend
 
-<img src="https://img.shields.io/badge/MongoDB-1A1B27?style=for-the-badge&logo=mongodb&logoColor=00ED64"/>
+![React](https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-18181B?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-18181B?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-18181B?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 
-<img src="https://img.shields.io/badge/ExpressJS-1A1B27?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
+### Backend
 
-<img src="https://img.shields.io/badge/ReactJS-1A1B27?style=for-the-badge&logo=react&logoColor=FF7A00"/>
+![Node.js](https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Express.js](https://img.shields.io/badge/Express.js-18181B?style=for-the-badge&logo=express&logoColor=FFFFFF)
 
-<img src="https://img.shields.io/badge/NodeJS-1A1B27?style=for-the-badge&logo=nodedotjs&logoColor=7FFF00"/>
+### Database
 
-</div>
+![MongoDB](https://img.shields.io/badge/MongoDB-18181B?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+### Programming Languages
+
+![Java](https://img.shields.io/badge/Java-18181B?style=for-the-badge&logo=openjdk&logoColor=F89820)
+![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-18181B?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-18181B?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 ---
 
-# 🏆 Featured Projects
+# 🔥 Featured Projects
 
 ## 🏪 Smart Konbini
 
-Tourist-friendly convenience store platform inspired by Japanese convenience stores.
+A tourist-friendly convenience store platform inspired by Japanese Konbini stores, helping travelers discover products, stores, and local experiences.
 
 **Tech Stack:** MERN Stack
 
@@ -66,7 +77,7 @@ Tourist-friendly convenience store platform inspired by Japanese convenience sto
 
 ## 🧾 Invoice SaaS
 
-A modern SaaS platform for invoice creation, tracking, dashboard analytics and business management.
+A modern SaaS application for invoice generation, management, analytics, and business workflow automation.
 
 **Tech Stack:** React • Node.js • Express • MongoDB
 
@@ -74,7 +85,7 @@ A modern SaaS platform for invoice creation, tracking, dashboard analytics and b
 
 ## 🏢 Real Estate Platform
 
-A full-stack property listing platform with authentication, property management and modern UI.
+A full-stack real estate platform featuring property listings, authentication, advanced filtering, and property management.
 
 **Tech Stack:** MERN Stack
 
@@ -84,9 +95,9 @@ A full-stack property listing platform with authentication, property management 
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jatin108-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jatin108-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin108-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin108-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -94,7 +105,7 @@ A full-stack property listing platform with authentication, property management 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin108-dev&theme=tokyonight&hide_border=true"/>
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=jatin108-dev&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -110,30 +121,13 @@ A full-stack property listing platform with authentication, property management 
 
 ---
 
-# 🎯 2026 Goals
-
-✅ Master Java & DSA
-
-✅ Build Production-Level MERN Applications
-
-✅ Learn System Design
-
-✅ Contribute To Open Source
-
-✅ Secure A Software Engineering Internship
-
----
 
 # 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/jatin-dubey-5883b8368">
-<img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-1A1B27?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 </div>
@@ -144,6 +138,6 @@ A full-stack property listing platform with authentication, property management 
 
 ## ⚡ BUILD • LEARN • SHIP • REPEAT ⚡
 
-### Turning Ideas Into Production Ready Software 🚀
+### Turning Ideas Into Production-Ready Software 🚀
 
 </div>
