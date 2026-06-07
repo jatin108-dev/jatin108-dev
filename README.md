@@ -36,20 +36,40 @@ I'm **Jatin Dubey**, a passionate Full Stack Developer focused on building scala
 
 ---
 
-### ⚡ Tech Arsenal
+# ⚡ Technical Skills
 
-![Java](https://img.shields.io/badge/Java-18181B?style=for-the-badge&logo=openjdk&logoColor=F89820)
-![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+### Frontend
+
 ![React](https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-18181B?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-18181B?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-18181B?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+
+### Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Express](https://img.shields.io/badge/Express-18181B?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![Express.js](https://img.shields.io/badge/Express.js-18181B?style=for-the-badge&logo=express&logoColor=FFFFFF)
+
+### Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-18181B?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL-18181B?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+
+### Programming Languages
+
+![Java](https://img.shields.io/badge/Java-18181B?style=for-the-badge&logo=openjdk&logoColor=F89820)
+![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### DevOps & Tools
+
 ![Docker](https://img.shields.io/badge/Docker-18181B?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-18181B?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![Git](https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-18181B?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/Postman-18181B?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
 # 🔥 Featured Projects
 
 ## 🏪 Smart Konbini
