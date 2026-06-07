@@ -1,18 +1,12 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7b00,100:ff4500&height=220&section=header&text=JATIN%20DUBEY&fontSize=50&fontColor=ffffff" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:00C853&height=250&section=header&text=JATIN%20DUBEY&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=42&duration=3500&pause=1200&color=FF7A00&center=true&vCenter=true&width=1300&height=90&lines=FULL+STACK+DEVELOPER;MERN+STACK+ENGINEER;JAVA+DEVELOPER;MACHINE+LEARNING+ENTHUSIAST" />
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=1200&height=80&lines=FULL+STACK+DEVELOPER;MERN+STACK+ENGINEER;JAVA+DEVELOPER;MACHINE+LEARNING+ENTHUSIAST" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=jatin108-dev&label=Profile+Views&color=F97316&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=jatin108-dev&label=PROFILE+VIEWS&color=00FF88&style=for-the-badge"/>
 
 </div>
 
@@ -20,55 +14,57 @@
 
 # 🚀 About Me
 
-I'm **Jatin Dubey**, a passionate Full Stack Developer focused on building scalable applications and solving real-world problems through technology.
+I'm **Jatin Dubey**, a passionate Full Stack Developer dedicated to building scalable applications and solving real-world problems through technology.
 
-💻 Building modern web applications using the **MERN Stack**
+💻 Specializing in modern web development with the **MERN Stack**
 
-☕ Strengthening problem-solving skills through **Java & Data Structures & Algorithms**
+☕ Strengthening problem-solving skills through **Java & Data Structures and Algorithms**
 
 🤖 Exploring **Machine Learning** and intelligent systems
 
-🚀 Developing SaaS products, Real Estate platforms, and Smart Retail solutions
+🚀 Building SaaS platforms, Real Estate solutions, and Smart Retail applications
 
-🌱 Learning Backend Engineering, System Design, and Open Source Development
+🌱 Learning Backend Engineering, System Design, Docker, and Open Source Development
 
-🎯 Goal: To become a highly skilled Software Engineer and build products that impact millions
+🎯 Aspiring Software Engineer focused on creating impactful products used by millions
 
 ---
 
-# ⚡ Technical Skills
+# ⚡ Tech Arsenal
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-18181B?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-18181B?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-18181B?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FF88)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF88)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF88)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF88)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00FF88)
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Express.js](https://img.shields.io/badge/Express.js-18181B?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![NodeJS](https://img.shields.io/badge/NodeJS-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00FF88)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-0D1117?style=for-the-badge&logo=express&logoColor=00FF88)
 
 ### Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-18181B?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-18181B?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00FF88)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF88)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF88)
 
 ### Programming Languages
 
-![Java](https://img.shields.io/badge/Java-18181B?style=for-the-badge&logo=openjdk&logoColor=F89820)
-![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF88)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF88)
 
 ### DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-18181B?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS_Code-18181B?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/Postman-18181B?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00FF88)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF88)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF88)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00FF88)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=00FF88)
+
+---
 
 # 🔥 Featured Projects
 
@@ -76,23 +72,23 @@ I'm **Jatin Dubey**, a passionate Full Stack Developer focused on building scala
 
 A tourist-friendly convenience store platform inspired by Japanese Konbini stores, helping travelers discover products, stores, and local experiences.
 
-**Tech Stack:** MERN Stack
+**Tech Stack:** MongoDB • Express.js • React • Node.js
 
 ---
 
 ## 🧾 Invoice SaaS
 
-A modern SaaS application for invoice generation, management, analytics, and business workflow automation.
+A modern SaaS platform for invoice generation, analytics, customer management, and business workflow automation.
 
-**Tech Stack:** React • Node.js • Express • MongoDB
+**Tech Stack:** React • Node.js • Express.js • MongoDB
 
 ---
 
 ## 🏢 Real Estate Platform
 
-A full-stack real estate platform featuring property listings, authentication, advanced filtering, and property management.
+A full-stack property listing platform featuring authentication, advanced filtering, property management, and modern UI/UX.
 
-**Tech Stack:** MERN Stack
+**Tech Stack:** MongoDB • Express.js • React • Node.js
 
 ---
 
@@ -100,9 +96,9 @@ A full-stack real estate platform featuring property listings, authentication, a
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jatin108-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jatin108-dev&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin108-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin108-dev&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
@@ -110,7 +106,7 @@ A full-stack real estate platform featuring property listings, authentication, a
 
 <div align="center">
 
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=jatin108-dev&theme=tokyonight&hide_border=true"/>
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=jatin108-dev&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
@@ -120,7 +116,7 @@ A full-stack real estate platform featuring property listings, authentication, a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jatin108-dev&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jatin108-dev&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&hide_border=true"/>
 
 </div>
 
@@ -132,7 +128,11 @@ A full-stack real estate platform featuring property listings, authentication, a
 <div align="center">
 
 <a href="https://www.linkedin.com/in/jatin-dubey-5883b8368">
-<img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF88"/>
+</a>
+
+<a href="https://github.com/jatin108-dev">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF88"/>
 </a>
 
 </div>
@@ -141,8 +141,8 @@ A full-stack real estate platform featuring property listings, authentication, a
 
 <div align="center">
 
-## ⚡ BUILD • LEARN • SHIP • REPEAT ⚡
+## 🟢 BUILD • LEARN • SHIP • REPEAT 🟢
 
-### Turning Ideas Into Production-Ready Software 🚀
+### Transforming Ideas Into Scalable Software 🚀
 
 </div>
