@@ -1,12 +1,10 @@
 <div align="center">
 
-# ⚡ JATIN DUBEY
-
-<h3>Full Stack Developer • MERN Stack Engineer • Java Developer • Machine Learning Enthusiast</h3>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7b00,100:ff4500&height=220&section=header&text=JATIN%20DUBEY&fontSize=50&fontColor=ffffff" />
 </p>
+
+<h3>Full Stack Developer • MERN Stack Engineer • Java Developer • Machine Learning Enthusiast</h3>
 
 <br>
 
