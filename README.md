@@ -4,7 +4,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7b00,100:ff4500&height=220&section=header&text=JATIN%20DUBEY&fontSize=50&fontColor=ffffff" />
 </p>
 
-<h3>Full Stack Developer • MERN Stack Engineer • Java Developer • Machine Learning Enthusiast</h3>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=32&duration=2800&pause=1000&color=FF7A00&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+🚀;MERN+Stack+Engineer+⚡;Java+Developer+☕;Machine+Learning+Enthusiast+🤖;Building+Production+Ready+Applications+🔥" />
+
+</div>
 
 <br>
 
